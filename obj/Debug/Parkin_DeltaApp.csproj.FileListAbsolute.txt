@@ -1,0 +1,17 @@
+C:\Users\gibra\Documents\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\gibra\Documents\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\gibra\Documents\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\Parkin_DeltaApp.csproj.AssemblyReference.cache
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form2.resources
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form3.resources
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form4.resources
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form5.resources
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form6.resources
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\Parkin_DeltaApp.csproj.GenerateResource.cache
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\Parkin_DeltaApp.csproj.CoreCompileInputs.cache
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\gibra\Documents\GUI_MODERNISTA\bin\Debug\LibreriaEstacionamientoDelta.dll
+C:\Users\gibra\Documents\GUI_MODERNISTA\bin\Debug\LibreriaEstacionamientoDelta.pdb
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\Parkin_D.3C516F64.Up2Date
