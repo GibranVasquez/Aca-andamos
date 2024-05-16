@@ -57,9 +57,10 @@
             // 
             label1.AutoSize = true;
             label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label1.Location = new System.Drawing.Point(132, 38);
+            label1.Location = new System.Drawing.Point(198, 58);
+            label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new System.Drawing.Size(152, 22);
+            label1.Size = new System.Drawing.Size(215, 30);
             label1.TabIndex = 0;
             label1.Text = "Datos Personales";
             label1.Click += new System.EventHandler(this.label1_Click);
@@ -68,10 +69,11 @@
             // 
             label2.AutoSize = true;
             label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label2.Location = new System.Drawing.Point(104, 362);
+            label2.Location = new System.Drawing.Point(156, 557);
+            label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label2.Name = "label2";
             label2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            label2.Size = new System.Drawing.Size(160, 22);
+            label2.Size = new System.Drawing.Size(226, 30);
             label2.TabIndex = 11;
             label2.Text = "Datos del Vehiculo";
             // 
@@ -79,9 +81,10 @@
             // 
             label3.AutoSize = true;
             label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label3.Location = new System.Drawing.Point(133, 150);
+            label3.Location = new System.Drawing.Point(200, 231);
+            label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(91, 13);
+            label3.Size = new System.Drawing.Size(137, 20);
             label3.TabIndex = 12;
             label3.Text = "Nombre Completo";
             label3.Click += new System.EventHandler(this.label3_Click);
@@ -90,9 +93,10 @@
             // 
             label6.AutoSize = true;
             label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label6.Location = new System.Drawing.Point(133, 256);
+            label6.Location = new System.Drawing.Point(200, 394);
+            label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label6.Name = "label6";
-            label6.Size = new System.Drawing.Size(49, 13);
+            label6.Size = new System.Drawing.Size(71, 20);
             label6.TabIndex = 15;
             label6.Text = "Telefono";
             // 
@@ -100,18 +104,20 @@
             // 
             label7.AutoSize = true;
             label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label7.Location = new System.Drawing.Point(638, 295);
+            label7.Location = new System.Drawing.Point(957, 454);
+            label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label7.Name = "label7";
-            label7.Size = new System.Drawing.Size(0, 13);
+            label7.Size = new System.Drawing.Size(0, 20);
             label7.TabIndex = 16;
             // 
             // label8
             // 
             label8.AutoSize = true;
             label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label8.Location = new System.Drawing.Point(133, 458);
+            label8.Location = new System.Drawing.Point(200, 705);
+            label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label8.Name = "label8";
-            label8.Size = new System.Drawing.Size(87, 13);
+            label8.Size = new System.Drawing.Size(126, 20);
             label8.TabIndex = 17;
             label8.Text = "Tipo de Vehiculo";
             // 
@@ -119,9 +125,10 @@
             // 
             label9.AutoSize = true;
             label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label9.Location = new System.Drawing.Point(133, 531);
+            label9.Location = new System.Drawing.Point(200, 817);
+            label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label9.Name = "label9";
-            label9.Size = new System.Drawing.Size(77, 13);
+            label9.Size = new System.Drawing.Size(111, 20);
             label9.TabIndex = 18;
             label9.Text = "Num. de Placa";
             // 
@@ -129,36 +136,40 @@
             // 
             this.textBox1.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(114, 112);
+            this.textBox1.Location = new System.Drawing.Point(171, 172);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(238, 26);
+            this.textBox1.Size = new System.Drawing.Size(355, 35);
             this.textBox1.TabIndex = 1;
             // 
             // textBox5
             // 
             this.textBox5.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.Location = new System.Drawing.Point(114, 207);
+            this.textBox5.Location = new System.Drawing.Point(171, 318);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(392, 26);
+            this.textBox5.Size = new System.Drawing.Size(586, 35);
             this.textBox5.TabIndex = 5;
             // 
             // textBox6
             // 
             this.textBox6.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.Location = new System.Drawing.Point(114, 420);
+            this.textBox6.Location = new System.Drawing.Point(171, 646);
+            this.textBox6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(392, 26);
+            this.textBox6.Size = new System.Drawing.Size(586, 35);
             this.textBox6.TabIndex = 6;
             // 
             // textBox7
             // 
             this.textBox7.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox7.Location = new System.Drawing.Point(114, 492);
+            this.textBox7.Location = new System.Drawing.Point(171, 757);
+            this.textBox7.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(392, 26);
+            this.textBox7.Size = new System.Drawing.Size(586, 35);
             this.textBox7.TabIndex = 7;
             // 
             // button6
@@ -166,9 +177,10 @@
             this.button6.BackColor = System.Drawing.Color.Olive;
             this.button6.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button6.Location = new System.Drawing.Point(489, 587);
+            this.button6.Location = new System.Drawing.Point(734, 903);
+            this.button6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(179, 41);
+            this.button6.Size = new System.Drawing.Size(268, 63);
             this.button6.TabIndex = 10;
             this.button6.Text = "GUARDAR";
             this.button6.UseVisualStyleBackColor = false;
@@ -178,19 +190,19 @@
             // 
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(712, -8);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.pictureBox2.Location = new System.Drawing.Point(1133, 8);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(230, 215);
+            this.pictureBox2.Size = new System.Drawing.Size(345, 331);
             this.pictureBox2.TabIndex = 20;
             this.pictureBox2.TabStop = false;
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gold;
-            this.ClientSize = new System.Drawing.Size(1122, 650);
+            this.ClientSize = new System.Drawing.Size(1683, 1000);
             this.Controls.Add(label9);
             this.Controls.Add(label8);
             this.Controls.Add(label7);
@@ -205,6 +217,7 @@
             this.Controls.Add(label1);
             this.Controls.Add(this.pictureBox2);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form2";
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);

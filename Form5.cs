@@ -27,8 +27,7 @@ namespace GUI_MODERNISTA
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form z = new Form6();
-            z.ShowDialog();
+           
         }
     }
 }

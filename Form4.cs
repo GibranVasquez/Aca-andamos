@@ -22,8 +22,11 @@ namespace GUI_MODERNISTA
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form gcrear = new Form6();
-            gcrear.ShowDialog();
+                    }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
