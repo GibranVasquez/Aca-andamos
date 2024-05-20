@@ -39,11 +39,12 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Heavy", 20F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(90, 98);
+            this.label1.Location = new System.Drawing.Point(57, 78);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(266, 47);
+            this.label1.Size = new System.Drawing.Size(303, 47);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Crear Cuenta";
+            this.label1.Text = "CREAR CUENTA";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox2
             // 
@@ -51,11 +52,12 @@
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.textBox2.Location = new System.Drawing.Point(50, 203);
+            this.textBox2.Location = new System.Drawing.Point(50, 213);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(334, 39);
             this.textBox2.TabIndex = 2;
             this.textBox2.Text = "Ingresa tu correo";
+            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox1
@@ -64,11 +66,13 @@
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.textBox1.Location = new System.Drawing.Point(50, 272);
+            this.textBox1.Location = new System.Drawing.Point(50, 288);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(334, 39);
             this.textBox1.TabIndex = 3;
             this.textBox1.Text = "Crea una contraseña";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox3
             // 
@@ -76,11 +80,12 @@
             this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.textBox3.Location = new System.Drawing.Point(50, 340);
+            this.textBox3.Location = new System.Drawing.Point(50, 364);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(334, 39);
             this.textBox3.TabIndex = 4;
             this.textBox3.Text = "Confirma contraseña";
+            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // button6
@@ -89,7 +94,7 @@
             this.button6.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button6.Location = new System.Drawing.Point(98, 422);
+            this.button6.Location = new System.Drawing.Point(98, 459);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(234, 58);
             this.button6.TabIndex = 42;
