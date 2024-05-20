@@ -63,6 +63,56 @@ namespace GUI_MODERNISTA.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _46fa7f51_0771_4f27_84cf_7ff8c717b389_removebg_preview__1_ {
+            get {
+                object obj = ResourceManager.GetObject("46fa7f51-0771-4f27-84cf-7ff8c717b389-removebg-preview (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap d76cf60b_aca0_44cc_b619_5e88f473ce65_removebg_preview__1_ {
+            get {
+                object obj = ResourceManager.GetObject("d76cf60b-aca0-44cc-b619-5e88f473ce65-removebg-preview (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Pantalla_Movil_removebg_preview__1___1_ {
+            get {
+                object obj = ResourceManager.GetObject("Pantalla_Movil-removebg-preview (1) (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2024_02_18_at_9_04_48_PM_removebg_preview__1_ {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp_Image_2024-02-18_at_9.04.48_PM-removebg-preview (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2024_02_18_at_9_17_47_PM_removebg_preview__1_ {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp_Image_2024-02-18_at_9.17.47_PM-removebg-preview (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap WhatsApp_Image_2024_05_03_at_9_33_28_AM {
             get {
                 object obj = ResourceManager.GetObject("WhatsApp Image 2024-05-03 at 9.33.28 AM", resourceCulture);
