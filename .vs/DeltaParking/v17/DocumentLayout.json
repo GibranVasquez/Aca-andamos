@@ -3,44 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|c:\\users\\gibra\\documents\\gui_modernista\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|c:\\users\\gibra\\documents\\gui_modernista\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|c:\\users\\gibra\\documents\\gui_modernista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|c:\\users\\gibra\\documents\\gui_modernista\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|c:\\users\\gibra\\documents\\gui_modernista\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|c:\\users\\gibra\\documents\\gui_modernista\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|c:\\users\\gibra\\documents\\gui_modernista\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31F941D-85E3-495C-829A-C320E58E73E0}|Parkin_DeltaApp.csproj|C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\form6.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -54,73 +66,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form6.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs",
-              "RelativeDocumentMoniker": "Form6.cs",
-              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form6.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:57:13.209Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form5.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form5.cs",
-              "RelativeDocumentMoniker": "Form5.cs",
-              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form5.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form5.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:52:16.646Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs",
-              "RelativeDocumentMoniker": "Form6.cs",
-              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs",
-              "RelativeToolTip": "Form6.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAApwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T18:47:49.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form6.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.Designer.cs",
-              "RelativeDocumentMoniker": "Form6.Designer.cs",
-              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.Designer.cs",
-              "RelativeToolTip": "Form6.Designer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T01:07:16.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:52:19.313Z",
+              "WhenOpened": "2024-05-20T18:41:44.958Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form7.cs",
+              "RelativeToolTip": "Form7.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:21:08.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:16:53.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:47:49.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form3.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -132,14 +132,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form4.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form4.cs",
-              "RelativeDocumentMoniker": "Form4.cs",
-              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form4.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wBgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:26:07.288Z"
+              "WhenOpened": "2024-05-03T15:50:11.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -147,31 +149,92 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form6.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form6.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:57:13.209Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form5.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form5.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:52:16.646Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form7.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form7.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:14:37.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:45:54.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:16:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.Designer.cs",
+              "RelativeDocumentMoniker": "Form6.Designer.cs",
+              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.Designer.cs",
+              "RelativeToolTip": "Form6.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:07:16.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Form6.resx",
               "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.resx",
               "RelativeDocumentMoniker": "Form6.resx",
               "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form6.resx",
               "RelativeToolTip": "Form6.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-14T01:45:08.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T01:45:08.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T01:45:54.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -180,19 +243,6 @@
               "ViewState": "AQIAAAQAAAAAAAAAAAAYwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T15:59:10.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\gibra\\Documents\\GUI_MODERNISTA\\Form3.cs",
-              "RelativeToolTip": "Form3.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAswCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:50:11.746Z",
               "EditorCaption": ""
             }
           ]

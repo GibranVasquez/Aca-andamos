@@ -45,3 +45,4 @@ C:\Users\JACOBANTONIO\Desktop\Aca-andamos\obj\Debug\Parkin_DeltaApp.csproj.CoreC
 C:\Users\JACOBANTONIO\Desktop\Aca-andamos\obj\Debug\Parkin_DeltaApp.csproj.CopyComplete
 C:\Users\JACOBANTONIO\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.exe
 C:\Users\JACOBANTONIO\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form7.resources

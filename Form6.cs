@@ -24,25 +24,74 @@ namespace GUI_MODERNISTA
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            AbrirFormulario<Form4>();
+            button2.BackColor = Color.FromArgb(12, 61, 92);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            AbrirFormulario<Form3>();
+            button4.BackColor = Color.FromArgb(12, 61, 92);
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            AbrirFormulario<Form5>();
+            button6.BackColor = Color.FromArgb(12, 61, 92);
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-
+            AbrirFormulario<Form7>();
+            button5.BackColor = Color.FromArgb(12, 61, 92);
         }
 
         private void Form6_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+        private void PanelPrincipal_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+        private void AbrirFormulario<MiForm>() where MiForm : Form, new()
+        {
+            Form formulario;
+            formulario = PanelPrincipal.Controls.OfType<MiForm>().FirstOrDefault();//Busca en la colecion el formulario
+                                                                                     //si el formulario/instancia existe
+            if (formulario == null)
+            {
+                formulario = new MiForm();
+                formulario.TopLevel = false;
+                formulario.FormBorderStyle = FormBorderStyle.None;
+                formulario.Dock = DockStyle.Fill;
+                PanelPrincipal.Controls.Add(formulario);
+                PanelPrincipal.Tag = formulario;
+                formulario.Show();
+                formulario.BringToFront();
+                formulario.FormClosed += new FormClosedEventHandler(CloseForms);
+            }
+            else
+            {
+                formulario.BringToFront();
+            }
+        }
+        private void CloseForms(object sender, FormClosedEventArgs e)
+        {
+            if (Application.OpenForms["Form1"] == null)
+                button2.BackColor = Color.FromArgb(4, 41, 68);
+            if(Application.OpenForms["Form2"] == null)
+                button4.BackColor = Color.FromArgb(4, 41, 68);
+            if (Application.OpenForms["Form2"] == null)
+                button6.BackColor = Color.FromArgb(4, 41, 68);
+            if (Application.OpenForms["Form2"] == null)
+                button5.BackColor = Color.FromArgb(4, 41, 68);
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }

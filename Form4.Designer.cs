@@ -39,9 +39,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Heavy", 20F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(57, 78);
+            this.label1.Location = new System.Drawing.Point(288, 72);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(303, 47);
+            this.label1.Size = new System.Drawing.Size(205, 34);
             this.label1.TabIndex = 0;
             this.label1.Text = "CREAR CUENTA";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -52,9 +53,10 @@
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.textBox2.Location = new System.Drawing.Point(50, 213);
+            this.textBox2.Location = new System.Drawing.Point(283, 159);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(334, 39);
+            this.textBox2.Size = new System.Drawing.Size(223, 29);
             this.textBox2.TabIndex = 2;
             this.textBox2.Text = "Ingresa tu correo";
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -66,9 +68,10 @@
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.textBox1.Location = new System.Drawing.Point(50, 288);
+            this.textBox1.Location = new System.Drawing.Point(283, 208);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(334, 39);
+            this.textBox1.Size = new System.Drawing.Size(223, 29);
             this.textBox1.TabIndex = 3;
             this.textBox1.Text = "Crea una contraseña";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -80,9 +83,10 @@
             this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.textBox3.Location = new System.Drawing.Point(50, 364);
+            this.textBox3.Location = new System.Drawing.Point(283, 258);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(2);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(334, 39);
+            this.textBox3.Size = new System.Drawing.Size(223, 29);
             this.textBox3.TabIndex = 4;
             this.textBox3.Text = "Confirma contraseña";
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -94,9 +98,10 @@
             this.button6.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button6.Location = new System.Drawing.Point(98, 459);
+            this.button6.Location = new System.Drawing.Point(315, 319);
+            this.button6.Margin = new System.Windows.Forms.Padding(2);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(234, 58);
+            this.button6.Size = new System.Drawing.Size(156, 38);
             this.button6.TabIndex = 42;
             this.button6.Text = "GUARDAR";
             this.button6.UseVisualStyleBackColor = false;
@@ -104,15 +109,16 @@
             // 
             // Form4
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gold;
-            this.ClientSize = new System.Drawing.Size(436, 572);
+            this.ClientSize = new System.Drawing.Size(711, 460);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form4";
             this.Text = "Form4";
             this.Load += new System.EventHandler(this.Form4_Load);

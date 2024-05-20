@@ -95,7 +95,7 @@
             this.button6.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button6.Location = new System.Drawing.Point(670, 460);
+            this.button6.Location = new System.Drawing.Point(434, 439);
             this.button6.Margin = new System.Windows.Forms.Padding(2);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(156, 38);
@@ -119,7 +119,7 @@
             this.pictureBox1.Image = global::GUI_MODERNISTA.Properties.Resources.WhatsApp_Image_2024_05_03_at_9_331;
             this.pictureBox1.Location = new System.Drawing.Point(26, 52);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(318, 438);
+            this.pictureBox1.Size = new System.Drawing.Size(327, 444);
             this.pictureBox1.TabIndex = 43;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
