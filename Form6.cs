@@ -53,7 +53,7 @@ namespace GUI_MODERNISTA
 
 
 
-        private void PanelPrincipal_Paint(object sender, PaintEventArgs e)
+        public void PanelPrincipal_Paint(object sender, PaintEventArgs e)
         {
 
         }

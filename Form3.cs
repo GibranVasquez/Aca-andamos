@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace GUI_MODERNISTA
@@ -22,8 +23,7 @@ namespace GUI_MODERNISTA
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form t = new Form5();    
-            t.ShowDialog();
+        
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -40,5 +40,7 @@ namespace GUI_MODERNISTA
         {
 
         }
-    }
+
+       
+        }
 }
