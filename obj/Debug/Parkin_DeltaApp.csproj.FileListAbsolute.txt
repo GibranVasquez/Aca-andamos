@@ -46,3 +46,11 @@ C:\Users\JACOBANTONIO\Desktop\Aca-andamos\obj\Debug\Parkin_DeltaApp.csproj.CopyC
 C:\Users\JACOBANTONIO\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.exe
 C:\Users\JACOBANTONIO\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.pdb
 C:\Users\gibra\Documents\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form7.resources
+C:\Users\KIMBERLY\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.Form6.resources
+C:\Users\KIMBERLY\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.Form7.resources
+C:\Users\KIMBERLY\Desktop\Aca-andamos\bin\Debug\MySql.Data.dll
+C:\Users\KIMBERLY\Desktop\Aca-andamos\bin\Debug\System.Memory.dll
+C:\Users\KIMBERLY\Desktop\Aca-andamos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KIMBERLY\Desktop\Aca-andamos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KIMBERLY\Desktop\Aca-andamos\bin\Debug\System.Buffers.dll
+C:\Users\KIMBERLY\Desktop\Aca-andamos\bin\Debug\MySql.Data.xml

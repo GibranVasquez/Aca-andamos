@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
 
 namespace GUI_MODERNISTA
 {
@@ -24,6 +25,17 @@ namespace GUI_MODERNISTA
 
         private void button2_Click(object sender, EventArgs e)
         {
+            string conexion = "server=localhost;port=3306;iud=root;pwd='';database =dbdeltaparking;";
+            MySqlConnection conectado = new MySqlConnection(conexion);
+            try
+            {
+                conectado.Open();
+                MessageBox.Show("Conectado correctamente a la BD");
+                conectado.Close();
+            } catch
+            {
+                MessageBox.Show("Error al conectar a la BD");
+            }
             AbrirFormulario<Form4>();
             button2.BackColor = Color.FromArgb(12, 61, 92);
         }

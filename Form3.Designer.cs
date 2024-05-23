@@ -83,6 +83,17 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             this.SuspendLayout();
             // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.BackColor = System.Drawing.Color.Transparent;
+            label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            label5.Location = new System.Drawing.Point(601, 188);
+            label5.Name = "label5";
+            label5.Size = new System.Drawing.Size(314, 25);
+            label5.TabIndex = 77;
+            label5.Text = "Ingresa tu Hora de entrada y salida";
+            // 
             // label18
             // 
             this.label18.AutoSize = true;
@@ -170,7 +181,7 @@
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label14.Location = new System.Drawing.Point(202, 469);
+            this.label14.Location = new System.Drawing.Point(341, 469);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(58, 29);
             this.label14.TabIndex = 89;
@@ -181,7 +192,7 @@
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label13.Location = new System.Drawing.Point(216, 386);
+            this.label13.Location = new System.Drawing.Point(341, 389);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(44, 29);
             this.label13.TabIndex = 88;
@@ -192,7 +203,7 @@
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label12.Location = new System.Drawing.Point(216, 305);
+            this.label12.Location = new System.Drawing.Point(341, 305);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(44, 29);
             this.label12.TabIndex = 87;
@@ -247,7 +258,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label7.Location = new System.Drawing.Point(216, 144);
+            this.label7.Location = new System.Drawing.Point(341, 150);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(44, 29);
             this.label7.TabIndex = 90;
@@ -258,7 +269,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label6.Location = new System.Drawing.Point(216, 221);
+            this.label6.Location = new System.Drawing.Point(341, 224);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(44, 29);
             this.label6.TabIndex = 82;
@@ -278,10 +289,10 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::GUI_MODERNISTA.Properties.Resources.WhatsApp_Image_2024_05_03_at_9_331;
-            this.pictureBox1.Location = new System.Drawing.Point(44, 99);
+            this.pictureBox1.Location = new System.Drawing.Point(44, 116);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(490, 683);
+            this.pictureBox1.Size = new System.Drawing.Size(441, 683);
             this.pictureBox1.TabIndex = 80;
             this.pictureBox1.TabStop = false;
             // 
@@ -308,17 +319,6 @@
             this.button6.TabIndex = 78;
             this.button6.Text = "GENERAR TICKET";
             this.button6.UseVisualStyleBackColor = false;
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.BackColor = System.Drawing.Color.Transparent;
-            label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label5.Location = new System.Drawing.Point(601, 188);
-            label5.Name = "label5";
-            label5.Size = new System.Drawing.Size(314, 25);
-            label5.TabIndex = 77;
-            label5.Text = "Ingresa tu Hora de entrada y salida";
             // 
             // textBox7
             // 
@@ -397,7 +397,7 @@
             // 
             this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(304, 144);
+            this.pictureBox6.Location = new System.Drawing.Point(304, 147);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(32, 32);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -419,7 +419,7 @@
             // 
             this.pictureBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
-            this.pictureBox8.Location = new System.Drawing.Point(153, 141);
+            this.pictureBox8.Location = new System.Drawing.Point(153, 147);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(32, 32);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
