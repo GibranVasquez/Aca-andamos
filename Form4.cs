@@ -10,6 +10,7 @@ namespace GUI_MODERNISTA
             InitializeComponent();
         }
 
+
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
@@ -22,7 +23,8 @@ namespace GUI_MODERNISTA
 
         private void button6_Click(object sender, EventArgs e)
         {
-                    }
+            this.Close();
+        }
 
         private void Form4_Load(object sender, EventArgs e)
         {

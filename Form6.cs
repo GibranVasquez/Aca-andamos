@@ -18,6 +18,9 @@ namespace GUI_MODERNISTA
             InitializeComponent();
         }
 
+        static string conexion = "server=127.0.0.1;port=3306;database=dbdeltaparking;UID=root;PASSWORDS=;";
+        MySqlConnection conectado = new MySqlConnection(conexion); 
+
         private void button1_Click(object sender, EventArgs e)
         {
 
@@ -25,37 +28,34 @@ namespace GUI_MODERNISTA
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string conexion = "server=localhost;port=3306;iud=root;pwd='';database =dbdeltaparking;";
-            MySqlConnection conectado = new MySqlConnection(conexion);
-            try
-            {
-                conectado.Open();
-                MessageBox.Show("Conectado correctamente a la BD");
-                conectado.Close();
-            } catch
-            {
-                MessageBox.Show("Error al conectar a la BD");
-            }
-            AbrirFormulario<Form4>();
+            
+            AbrirFormulario1<Form4>();
             button2.BackColor = Color.FromArgb(12, 61, 92);
+            AbrirFormulario1<Form7>();
+            AbrirFormulario1<Form3>();
+            AbrirFormulario1<Form5>();
+            
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            AbrirFormulario<Form3>();
+            AbrirFormulario1<Form3>();
             button4.BackColor = Color.FromArgb(12, 61, 92);
+           
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            AbrirFormulario<Form5>();
+            AbrirFormulario1<Form5>();
             button6.BackColor = Color.FromArgb(12, 61, 92);
+            
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            AbrirFormulario<Form7>();
+            AbrirFormulario1<Form7>();
             button5.BackColor = Color.FromArgb(12, 61, 92);
+           
         }
 
         private void Form6_Load(object sender, EventArgs e)
@@ -102,6 +102,28 @@ namespace GUI_MODERNISTA
             if (Application.OpenForms["Form2"] == null)
                 button5.BackColor = Color.FromArgb(4, 41, 68);
         }
+
+        private void AbrirFormulario1<MiForm>() where MiForm : Form, new()
+        {
+            Form formulario;
+            formulario = PanelPrincipal.Controls.OfType<MiForm>().FirstOrDefault();
+            // Si el formulario no existe en el panel
+            if (formulario == null)
+            {
+                formulario = new MiForm();
+                formulario.TopLevel = false;
+                formulario.FormBorderStyle = FormBorderStyle.None;
+                formulario.Dock = DockStyle.Fill;
+                PanelPrincipal.Controls.Add(formulario);
+                PanelPrincipal.Tag = formulario;
+                formulario.Show();
+            }
+            else
+            {
+                formulario.BringToFront(); // Si el formulario ya existe, solo lo lleva al frente
+            }
+        }
+
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
