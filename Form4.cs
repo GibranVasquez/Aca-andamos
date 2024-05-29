@@ -24,40 +24,52 @@ namespace GUI_MODERNISTA
 
         private void button6_Click(object sender, EventArgs e)
         {
-            this.Close(); 
+            // Cerrar la ventana solo después de completar la operación de base de datos
+            // this.Close(); // Comentado para cerrar después de la inserción
 
             string contraseña = textContra.Text;
             string confContraseña = textConfContra.Text;
             string gmail = textGmail.Text;
 
-            
+            // Cadena de conexión con los datos proporcionados
             string cadenaConexion = "Server=127.0.0.1;Database=dbdeltaparking;User ID=root;Password=;";
-
-            string data = string.Empty;
 
             try
             {
                 using (MySqlConnection conexionBD = new MySqlConnection(cadenaConexion))
                 {
-                    string consulta = "SHOW DATABASES";
+                    conexionBD.Open();
+
+                    // Consulta para insertar datos en la tabla crearcuenta
+                    string consulta = "INSERT INTO crearcuenta (Password, ConfirmaPassword, Gmail) VALUES (@contraseña, @confirmar_contraseña, @gmail)";
                     using (MySqlCommand comando = new MySqlCommand(consulta, conexionBD))
                     {
-                        conexionBD.Open();
-                        using (MySqlDataReader reader = comando.ExecuteReader())
+                        // Parámetros para evitar SQL Injection
+                        comando.Parameters.AddWithValue("@contraseña", contraseña);
+                        comando.Parameters.AddWithValue("@confirmar_contraseña", confContraseña);
+                        comando.Parameters.AddWithValue("@gmail", gmail);
+
+                        // Ejecutar la consulta
+                        int resultado = comando.ExecuteNonQuery();
+                        if (resultado > 0)
                         {
-                            while (reader.Read())
-                            {
-                                data += reader.GetString(0) + "\n";
-                            }
+                            MessageBox.Show("Datos insertados correctamente.");
+                        }
+                        else
+                        {
+                            MessageBox.Show("No se pudo insertar los datos.");
                         }
                     }
                 }
-
-                MessageBox.Show(data);
             }
             catch (Exception ex)
             {
                 MessageBox.Show("ERROR: " + ex.Message);
+            }
+            finally
+            {
+                // Cerrar la ventana después de la inserción
+                this.Close();
             }
         }
 
