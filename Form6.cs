@@ -18,8 +18,7 @@ namespace GUI_MODERNISTA
             InitializeComponent();
         }
 
-        static string conexion = "server=127.0.0.1;port=3306;database=dbdeltaparking;UID=root;PASSWORDS=;";
-        MySqlConnection conectado = new MySqlConnection(conexion); 
+       
 
         private void button1_Click(object sender, EventArgs e)
         {

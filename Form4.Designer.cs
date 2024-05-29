@@ -30,9 +30,9 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.button6 = new System.Windows.Forms.Button();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textContra = new System.Windows.Forms.TextBox();
+            this.textConfContra = new System.Windows.Forms.TextBox();
+            this.textGmail = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -65,35 +65,37 @@
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
-            // textBox2
+            // textContra
             // 
-            this.textBox2.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(245, 153);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(294, 26);
-            this.textBox2.TabIndex = 43;
+            this.textContra.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.textContra.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textContra.Location = new System.Drawing.Point(245, 153);
+            this.textContra.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.textContra.Name = "textContra";
+            this.textContra.PasswordChar = '*';
+            this.textContra.Size = new System.Drawing.Size(294, 26);
+            this.textContra.TabIndex = 43;
             // 
-            // textBox1
+            // textConfContra
             // 
-            this.textBox1.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(245, 222);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(294, 26);
-            this.textBox1.TabIndex = 44;
+            this.textConfContra.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.textConfContra.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textConfContra.Location = new System.Drawing.Point(245, 222);
+            this.textConfContra.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.textConfContra.Name = "textConfContra";
+            this.textConfContra.PasswordChar = '*';
+            this.textConfContra.Size = new System.Drawing.Size(294, 26);
+            this.textConfContra.TabIndex = 44;
             // 
-            // textBox3
+            // textGmail
             // 
-            this.textBox3.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(245, 284);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(294, 26);
-            this.textBox3.TabIndex = 45;
+            this.textGmail.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.textGmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textGmail.Location = new System.Drawing.Point(245, 284);
+            this.textGmail.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.textGmail.Name = "textGmail";
+            this.textGmail.Size = new System.Drawing.Size(294, 26);
+            this.textGmail.TabIndex = 45;
             // 
             // label3
             // 
@@ -136,9 +138,9 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textGmail);
+            this.Controls.Add(this.textConfContra);
+            this.Controls.Add(this.textContra);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(2);
@@ -154,9 +156,9 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textContra;
+        private System.Windows.Forms.TextBox textConfContra;
+        private System.Windows.Forms.TextBox textGmail;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label4;

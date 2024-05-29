@@ -64,7 +64,6 @@ C:\Users\gibra\Desktop\Aca-andamos\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\gibra\Desktop\Aca-andamos\bin\Debug\System.Buffers.dll
 C:\Users\gibra\Desktop\Aca-andamos\bin\Debug\LibreriaEstacionamientoDelta.pdb
 C:\Users\gibra\Desktop\Aca-andamos\obj\Debug\Parkin_DeltaApp.csproj.AssemblyReference.cache
-C:\Users\gibra\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.Form2.resources
 C:\Users\gibra\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.Form3.resources
 C:\Users\gibra\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.Form4.resources
 C:\Users\gibra\Desktop\Aca-andamos\obj\Debug\GUI_MODERNISTA.Form5.resources
